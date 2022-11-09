@@ -1,7 +1,7 @@
 ---
 Title: Automating Data Download with Python
 Author: John Fay
-Date: Fall 2020
+Date: Fall 2022
 ---
 
 # Getting Data
