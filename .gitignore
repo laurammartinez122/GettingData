@@ -2,7 +2,8 @@
 *.ipynb_checkpoints
 
 #Ignore script outputs
-#data/NCWaterData.csv
+
+data/NCWaterData.csv
 #WaterData
 #StreamCat
 #OtherNotebooks/NCDEQ
@@ -14,3 +15,5 @@ tl_2017_38_tract/*
 *.zip
 Happiness.csv
 
+#NHD downloads
+NHD_*
